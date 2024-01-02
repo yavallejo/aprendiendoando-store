@@ -13,3 +13,9 @@ type ProductType = {
   handle: string;
   tags: string;
 };
+
+type CollectionType = {
+  id: string;
+  title: string;
+  handle: string;
+};
